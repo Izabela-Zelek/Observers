@@ -2,6 +2,7 @@
 #include "Event.h"
 #include "Player.h"
 #include "Goal.h"
+#include <iostream>
 
 class Observer
 {
